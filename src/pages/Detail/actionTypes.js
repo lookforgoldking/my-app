@@ -1,0 +1,3 @@
+const CHANGE_DETAIL = 'DETAIL/CHANG_INFO';
+
+export { CHANGE_DETAIL };

@@ -1,0 +1,38 @@
+.common-logo {
+  display: block;
+  height: 59px;
+  margin: 0 auto;
+}
+.common .ant-menu-item {
+  line-height: 28px;
+}
+.common .menu-border {
+  border: 1px solid #FFE9D3;
+}
+.common .right-border {
+  border-right: 1px solid #FFE9D3;
+}
+.common .right-border:nth-of-type(3) {
+  border-right: 0;
+}
+.common .menu-border .ant-list-header {
+  text-align: center;
+  font-size: 12PX;
+  color: #666;
+  background: #fdf4e5;
+  border-bottom: 1px solid #FFE9D3;
+  padding: 5PX 0;
+}
+.common .menu-border .ant-list-item {
+  font-size: 12px;
+  margin: 5px 0!important;
+}
+.common .menu-border .ant-list-item-content-single {
+  text-align: center;
+}
+.common .menu-border .menu-link {
+  color:#333;
+}
+.common .menu-border .menu-link:hover {
+  color:orange;
+}

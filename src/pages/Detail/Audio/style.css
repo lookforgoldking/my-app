@@ -1,0 +1,29 @@
+.detail-audio .audio-controls {
+  text-align: center;
+}
+.detail-audio .audio-controls button {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+  background: #ccc;
+  border: 1px solid #eee;
+  outline: none;
+  border-radius: .2rem;
+  margin-right: 5px;
+}
+.detail-audio .time-bar {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  vertical-align: middle;
+  background: #bbb;
+  border-radius: .5rem;
+  color: #fff;
+  margin-right: 5px;
+  overflow: hidden;
+}
+.detail-audio .time-info {
+  height: 30px;
+  line-height: 30px;
+} 

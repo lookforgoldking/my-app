@@ -1,0 +1,28 @@
+.detail {
+  margin-top: 20px;
+}
+.detail .ant-layout-header {
+  background: #f0f2f5;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #007dc6;
+}
+.detail .detail-info {
+  text-align: center;
+  font-size: 12px;
+  color: #007dc6;
+}
+.detail .detail-info span {
+  margin-right: 10px;
+}
+.detail .ant-layout-content {
+  font-size: 14px;
+  color:#333;
+  padding: 0 10px;
+  text-indent: 2em;
+  word-break: break-all;
+}
+.detail .clock {
+  background: #f0f2f5;
+}

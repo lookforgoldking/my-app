@@ -1,0 +1,13 @@
+.home .ant-list-header {
+  background: #ff4444;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.home .home-header {
+  background: #ff4444;
+  line-height: 25px;
+  color: #fff;
+  font-size: 12px;
+  text-align: left;
+}
